@@ -1,0 +1,5 @@
+/Users/sebastian/Documents/projects/Rider/ConsoleApp37/ConsoleApp37/obj/Debug/net9.0/ConsoleApp37.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastian/Documents/projects/Rider/ConsoleApp37/ConsoleApp37/obj/Debug/net9.0/ConsoleApp37.AssemblyInfoInputs.cache
+/Users/sebastian/Documents/projects/Rider/ConsoleApp37/ConsoleApp37/obj/Debug/net9.0/ConsoleApp37.AssemblyInfo.cs
+/Users/sebastian/Documents/projects/Rider/ConsoleApp37/ConsoleApp37/obj/Debug/net9.0/ConsoleApp37.csproj.CoreCompileInputs.cache
+/Users/sebastian/Documents/projects/Rider/ConsoleApp37/ConsoleApp37/obj/Debug/net9.0/ConsoleApp37.sourcelink.json
